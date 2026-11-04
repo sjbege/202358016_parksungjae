@@ -1,10 +1,10 @@
-# student01의 웹 연습장
+# 박성재의 웹 연습장
 
 웹프로그래밍 수업에서 한 주씩 늘려 가는 **자기소개 사이트**입니다.
 
 ## 공개 주소
 
-- [https://student01.github.io/web-week09/](https://student01.github.io/web-week09/)
+- [https://sjbege.github.io/202358016_parksungjae/](https://sjbege.github.io/202358016_parksungjae/)
 
 ## 페이지
 
@@ -34,7 +34,7 @@ darkButton.addEventListener('click', function () {
 
 ![인사 바꾸기를 누른 홈 화면](screenshots/home.png)
 
-![글을 남긴 방명록 화면](screenshots/guestbook.png)
+![글을 남긴 방명록 화면](screenshots/guest.png)
 
 ## 이번에 배운 것
 
